@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379216955509",
+    "project_id": "dein-park-8f67a",
+    "storage_bucket": "dein-park-8f67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379216955509:android:1b4ffde718f26c982f103c",
+        "android_client_info": {
+          "package_name": "com.example.vistorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHTjaQNW4kagNUGOjJBLgg1dYkhRPGSiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
